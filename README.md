@@ -1,1 +1,1 @@
-# WalletBETA
+# Jedlix Assignment

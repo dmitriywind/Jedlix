@@ -5,8 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AssignmentTestConsole.Helpers\AssignmentTestConsole.Helpers.csproj" />
     <ProjectReference Include="..\Jedlix.Repositories.Contracts\Jedlix.Repositories.Contracts.csproj" />
-    <ProjectReference Include="..\Jedlix\AssignmentTestConsole.Helpers\AssignmentTestConsole.Helpers.csproj" />
+    <ProjectReference Include="..\Jedlix.Repositories.Entities\Jedlix.Repositories.Entities.csproj" />
   </ItemGroup>
 
 </Project>
