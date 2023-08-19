@@ -64,9 +64,9 @@ namespace AssignmentTestConsole
 
         public const string Input_EndsNextDay = @"
                                     {
-                                        ""startingTime"": ""2023-08-18T22:12:23Z"",
+                                        ""startingTime"": ""2023-08-18T23:12:23Z"",
                                         ""userSettings"": {
-                                            ""desiredStateOfCharge"": 70,
+                                            ""desiredStateOfCharge"": 100,
                                             ""leavingTime"": ""07:50"",
                                             ""directChargingPercentage"": 20,
                                             ""tariffs"":
