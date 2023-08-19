@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jedlix.Core.Contracts\Jedlix.Core.Contracts.csproj" />
+    <ProjectReference Include="..\Jedlix.Models\Jedlix.Models.csproj" />
+    <ProjectReference Include="..\Jedlix.Repositories.Contracts\Jedlix.Repositories.Contracts.csproj" />
+    <ProjectReference Include="..\ServiceBusPublisher\Jedlix.ServiceBusPublisher.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jedlix.Repositories.Contracts\Jedlix.Repositories.Contracts.csproj" />
+    <ProjectReference Include="..\Jedlix\AssignmentTestConsole.Helpers\AssignmentTestConsole.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
